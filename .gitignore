@@ -1,0 +1,28 @@
+# Python
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.sqlite3
+*.db
+.DS_Store
+
+# FastAPI
+.idea/
+.vscode/
+*.log
+
+# React / Node.js
+node_modules/
+build/
+dist/
+.env
+.env.local
+*.lock
+
+# System
+*.swp
+*.bak
+Thumbs.db
